@@ -21,7 +21,7 @@ nnfs-sentdex/
 ## Progress
 
 | Chapter | Topic |
-|---------|-------|--------|
+|---------|-------|
 | Ch. 1 | Intro & Setup |
 | Ch. 2 | Coding Our First Neurons |
 | Ch. 3 | The Dot Product |
